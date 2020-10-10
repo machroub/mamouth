@@ -758,6 +758,10 @@ p{
 .IT > p{
 	line-height: unset;
 }
+.btt{
+	text-align: center;
+}
+
 }
 /*	@media only screen and (min-device-width : 300px) {
 		/* Styles pour cette Media Queries */
