@@ -46,11 +46,11 @@
 							<div class="social-bar"></div>
 						</div>
 						<div class="social-links-container">
-							<a class="social-link" href="#"></a>
-							<a class="social-link" href="#"></a>
-							<a class="social-link" href="#"></a>
+							<a class="social-link" href="#"><i class="fab fa-instagram"></i></a>
+							<a class="social-link" href="#"><i class="fab fa-behance"></i></a>
+<!--							<a class="social-link" href="#"></a>
 							<a class="last-social-link social-link" href="#"></a>
-							<div class="modal-content-links_btn">
+							--><div class="modal-content-links_btn">
                     						<li data-toggle="tooltip" data-placement="top"><a href="<?php echo get_facebook_url(intval($id), "p"); ?>" target="_blank" rel="noopener" class="display_inherit"><i class="fab fa-facebook-f"></i></a></li>
                 					    	<li data-toggle="tooltip" data-placement="top"><a href="<?php echo get_twitter_url(intval($id), wp_kses(strip_tags($title), $allowed_html), "p"); ?>" data-via="@AccorHotelsNews" data-lang="fr" target="_blank" rel="noopener" class="display_inherit"><i class="fab fa-twitter"></i></a></li>
                     						<--!<li><a download href="<?php echo $src; ?>" class="btn btn-share"><i class="fas fa-file-download"></i></a></li>
