@@ -46,7 +46,10 @@
 							<div class="social-bar"></div>
 						</div>
 						<div class="social-links-container">
-							<a class="social-link" href="#"></a><a class="social-link" href="#"></a><a class="social-link" href="#"></a><a class="last-social-link social-link" href="#"></a>
+							<a class="social-link" href="#"></a>
+							<a class="social-link" href="#"></a>
+							<a class="social-link" href="#"></a>
+							<a class="last-social-link social-link" href="#"></a>
 						<!--	<a class="sr-github socializer a sr-32px sr-icon-white sr-bg-none sr-pad"><a href="https://www.github.com/" title="Github"><i class="fa fa-github"></i></a> -->
 						</div>
 				</div>	
