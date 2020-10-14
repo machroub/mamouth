@@ -492,7 +492,9 @@ small {
 .website a {
   color: white;
 }
-
+i {
+	font-style: normal;
+}
 
 /* RESPONSIVE 
 
