@@ -6,10 +6,6 @@
 	z-index: 1000;
 }
 
-.tabsnav--hidden {
-	pointer-events: none;
-	visibility: hidden;
-}
 
 .tabsnav__item {
 	height: 50px;
@@ -39,7 +35,6 @@
 	pointer-events: none;
 }
 
-/* Vertical Menu */
 .tabsnav--vertical {
 	display: flex;
 	width: auto;
@@ -56,11 +51,6 @@
 	transform: rotate(-90deg);
 }
 
-/* Individual menu styles (Basque names) */
-
-
-
-/* Zeru */
 .tabsnav--zeru {
 	background: #222525;
 }
@@ -80,7 +70,6 @@
 
 
 @media screen and (max-width: 40em) {
-	/* don't show a background if on mobile */
 	.tabsnav {
 		background: none;
 	}
