@@ -13,11 +13,11 @@ Clone down this repository.
 You can use a live server 
 
 ## <code>Back-end</code>
-the back part of the project was created with from scratch php script to manage a contact form
+the back part of the project was created with a from scratch php script to manage a contact form
 
 ## <code>Front-end</code>
-the front end technologies used are from scratch CSS and HTML plus a bit of vanilla js
-### Tech Library used:
+the front end technologies used are from scratch CSS and HTML plus a bit of vanilla JS
+### Tech used:
   <ul>
   <li>HTML</li>
   <li>CSS</li>
